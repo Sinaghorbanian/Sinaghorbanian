@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sinaghorbanian
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Html, Css.
+- 🌱 I’m currently learning React.
 - 📫 You can reach me via Email: Info@sinawebdev.com
 - 👨🏻‍💻 My Website is: www.sinawebdev.com
 
