@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sina Ghorbanian
+- 👋 Hi, I’m Sina Ghorbanian | @sinawebdev
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React.
 - 📫 You can reach me via Email: Info@sinawebdev.com
